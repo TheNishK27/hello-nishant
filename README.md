@@ -1,36 +1,151 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Nishant Kumar - Personal Portfolio
 
-## Getting Started
+Welcome to my personal portfolio project! This project is built using modern web development technologies such as React.js, Next.js, and Tailwind CSS, showcasing my skills, projects, and experiences.
 
-First, run the development server:
+Table of Contents
 
-```bash
+Project Overview
+
+Technologies Used
+
+Folder Structure
+
+Key Components
+
+About Section
+
+Contact Section
+
+Footer
+
+Hero Section
+
+Navbar
+
+Projects
+
+Skills
+
+Getting Started
+
+Features
+
+Live Demo
+
+License
+
+Project Overview
+
+This portfolio showcases my journey as an engineer focused on technology development through innovation. The website is responsive and visually appealing, featuring animations and modern UI components. It includes details about my education, skills, projects, and contact information.
+
+Technologies Used
+
+React.js: For building reusable UI components
+
+Next.js: For server-side rendering and SEO optimization
+
+Tailwind CSS: For efficient and responsive styling
+
+Framer Motion: For smooth animations
+
+TypeScript: For type safety and scalability
+
+Folder Structure
+
+.
+├── .next
+├── node_modules
+├── public
+├── src
+│   ├── app
+│   ├── assets
+│   ├── components
+│   │   ├── about
+│   │   ├── contacts
+│   │   ├── footer
+│   │   ├── hero
+│   │   ├── navbar
+│   │   ├── projects
+│   │   ├── skills
+├── .gitignore
+├── eslint.config.mjs
+├── next-env.d.ts
+├── next.config.ts
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── postcss.config.mjs
+├── README.md
+├── tailwind.config.ts
+├── tsconfig.json
+
+Key Components
+
+About Section
+
+Highlights my educational background, problem-solving abilities, and experience with frontend development.
+
+Contact Section
+
+Provides a form for visitors to connect with me and includes my phone number and email address.
+
+Footer
+
+Includes links to my social media profiles (LinkedIn, Twitter, Instagram) and copyright information.
+
+Hero Section
+
+Introduces me with a brief description and interactive design elements.
+
+Navbar
+
+Responsive navigation bar with links to different sections of the site. Includes a mobile-friendly toggle menu.
+
+Projects
+
+Showcases selected projects with descriptions, technology stack, and links to live demos and GitHub repositories.
+
+Skills
+
+Displays my technical skills using icons for various programming languages and tools.
+
+Getting Started
+
+Clone the repository:
+
+git clone https://github.com/your-github-username/portfolio.git
+
+Navigate to the project directory:
+
+cd portfolio
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Responsive Design: Fully optimized for all devices.
 
-## Learn More
+Modern UI/UX: Clean and visually appealing interface.
 
-To learn more about Next.js, take a look at the following resources:
+Dynamic Animations: Interactive elements powered by Framer Motion.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Projects Showcase: Detailed descriptions and links to live projects.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Live Demo
 
-## Deploy on Vercel
+Check out the live demo of my portfolio here.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the MIT License.
+
+Thank you for visiting my portfolio! Feel free to reach out via the contact form or connect with me on social media.
+
