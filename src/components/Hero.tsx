@@ -35,7 +35,7 @@ const Hero = () => {
             </motion.div>
         
         <p className='text-center text-xl max-w-[500px] mx-auto mt-8 text-white/80'>
-            I am an Engineer focused on technology development through innovation.
+            I am an Engineer focused on pioneering technological advancements through creative innovation.
         </p>
         <Image
         src={profilepic}
