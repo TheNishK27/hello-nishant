@@ -1,6 +1,6 @@
 # My Portfolio
 
-This is a personal portfolio built using **ReactJS**, **NextJS**, **TailwindCSS** & **Framer Motion**. The portfolio includes an interactive UI that is optimized for both desktop and mobile devices.
+Hello Nishant is a personal portfolio website built using React.js, Next.js, and Tailwind CSS. It showcases various sections like About, Skills, Projects, and Contact, providing a sleek and responsive user experience. The project utilizes Next.js for server-side rendering and optimized performance. It's a great example of modern web development practices with a focus on clean design, component-based architecture, and performance optimization and responsive. This website aims to highlight the skills, projects, and background of a person, while also serving as a personal branding tool. 
 
 ## Features
 
