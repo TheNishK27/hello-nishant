@@ -1,5 +1,4 @@
-import React from 'react';
-import Image from 'next/image';
+import Image from "next/image";
 import phone from "../assets/phone.png";
 import mail from "../assets/mail.png";
 
@@ -15,7 +14,7 @@ const Contacts = () => {
           <li className="flex items-center">
             <Image
               src={phone}
-              alt="phone"
+              alt="Phone icon"
               className="hidden md:block h-[80px] md:h-[110px] w-auto mr-4 md:mr-6"
             />
             <p className="hidden md:block text-lg md:text-xl">+91 88662 00955</p>
@@ -23,7 +22,7 @@ const Contacts = () => {
           <li className="flex items-center">
             <Image
               src={mail}
-              alt="mail"
+              alt="Mail icon"
               className="hidden md:block h-[80px] md:h-[110px] w-auto mr-4 md:mr-6"
             />
             <p className="hidden md:block text-lg md:text-xl">kumarexpress27@gmail.com</p>
@@ -34,7 +33,7 @@ const Contacts = () => {
       {/* Contact Form Section */}
       <div className="bg-white/10 p-6 md:p-8 rounded-xl w-full lg:max-w-[550px]">
         <h2 className="text-4xl md:text-5xl font-bold text-orange-400 mb-4">
-          Let's Connect
+          Let&apos;s Connect
         </h2>
         <p className="text-white/70 mb-6">Send me a message</p>
         <form
