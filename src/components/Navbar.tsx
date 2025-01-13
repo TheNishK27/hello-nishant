@@ -6,7 +6,7 @@ import {motion} from 'framer-motion'
 
 const navLinks = [
     { title: "About", path: "#about"},
-    { title: "Resume", path: "#resume"},
+    { title: "Resume", path: "https://drive.google.com/file/d/1anji87famwuKtP-st6iz0tPFPELbRiHT/view?usp=sharing"},
 ];
 
 const Navbar = () => {
