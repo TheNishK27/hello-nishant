@@ -11,10 +11,13 @@ Hello Nishant is a personal portfolio website built using React.js, Next.js, and
 
 ## Tech Stack
 
-- **Frontend**: ReactJS, NextJS, TailwindCSS, Framer Motion
-- **Backend**: Not applicable (static site)
-- **Version Control**: Git, GitHub
-
+- **React.js**
+- **Next.js**
+- **TailwindCSS**: For responsive styling.
+- **Framer Motion**: For cool animations.
+- **TypeScript**: For scripting and dynamic functionality.
+- **Node.js & npm**: For managing dependencies and running the development server.
+- **GetForm.io**: For contact
 
 ## File Structure
 
@@ -47,3 +50,43 @@ hello-nishant/
 ├── tailwind.config.ts
 ├── tsconfig.json
 ```
+
+## Installation
+
+To set up and run the project locally, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone <repository_url
+   ```
+
+2. **Install Dependencies**:
+   Navigate to the project directory and install the required packages.
+   ```bash
+   cd hello-nishant
+   npm install
+   ```
+
+4. **Start the Application**:
+   Run the application in development mode.
+   ```bash
+   npm run dev
+   ```
+   
+   The application will open in your default web browser at `http://localhost:3000`.
+
+## Contributing
+
+Contributions are welcome! If you have ideas to improve the dashboard or fix issues, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes with clear and descriptive messages.
+4. Push your branch to your forked repository.
+5. Submit a pull request for review.
+
+---
+
+Thank you for exploring CoinCrush! We hope this dashboard helps you make informed cryptocurrency decisions.
+
+  
