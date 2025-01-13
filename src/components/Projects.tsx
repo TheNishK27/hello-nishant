@@ -24,7 +24,7 @@ const projects = [
   },
   {
     title: "Personal Portfolio",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, veniam saepe odit consectetur illum cumque tempora a voluptas architecto culpa soluta, aut ipsum ut enim blanditiis deserunt libero aliquam undNeque, quos rerum eveniet modi dolore voluptatem repudiandae. Tenetur sapiente veniam",
+    desc: "hello-nishant is a personal portfolio website built using React.js, Next.js, and Tailwind CSS. It showcases various sections like About, Skills, Projects, and Contact, providing a sleek, elegant and responsive user experience. The project utilizes Next.js for server-side rendering and optimized performance.",
     devStack: "React.js, Next.js, TailwindCSS and Framer Motion",
     link: "#",
     git: "#",
