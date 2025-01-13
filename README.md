@@ -18,6 +18,8 @@ This is a personal portfolio built using **ReactJS**, **NextJS**, **TailwindCSS*
 
 ## File Structure
 
+```
+
 hello-nishant/
 ├── src/
 │   ├── components/           # React components for UI
@@ -45,3 +47,4 @@ hello-nishant/
 ├── postcss.config.mjs
 ├── tailwind.config.ts
 ├── tsconfig.json
+```
