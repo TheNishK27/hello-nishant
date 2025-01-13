@@ -16,4 +16,30 @@ This is a personal portfolio built using **ReactJS**, **NextJS**, **TailwindCSS*
 - **Version Control**: Git, GitHub
 
 ## File Structure
-/my-portfolio ├── .next/ # Compiled files from Next.js ├── node_modules/ # Node.js packages ├── public/ # Static files like images ├── src/ # Application source code │ ├── app/ # Application pages and components │ ├── assets/ # Images and other assets │ ├── components/ # Reusable components like Navbar, Hero, etc. ├── .gitignore # Git ignore file ├── eslint.config.mjs # ESLint configuration ├── next-env.d.ts # TypeScript definitions for Next.js ├── next.config.ts # Next.js configuration ├── package-lock.json # Lock file for dependencies ├── package.json # Project metadata and dependencies ├── postcss.config.js # PostCSS configuration for TailwindCSS ├── tailwind.config.ts # TailwindCSS configuration ├── tsconfig.json # TypeScript configuration
+hello-nishant/
+├── src/
+│   ├── components/           # React components for UI
+│   │   ├── About.tsx         # About section component
+│   │   ├── Contacts.tsx      # Contact section component
+│   │   ├── Footer.tsx        # Footer component
+│   │   ├── Hero.tsx          # Homepage component
+│   │   ├── Navbar.tsx        # Navigation bar component
+│   │   ├── Projects.tsx      # Projects section component
+│   │   ├── Skills.tsx        # Skill section component
+│   ├── app/                  # Utility functions
+│   │   ├── globals.css       # Global Styling File
+│   │   ├── layout.tsx        
+│   │   ├── page.tsx          # Main file mounting all the components 
+│   ├── assets/
+├── public/
+├── README.md                 # Documentation
+├── package.json              # Project dependencies and scripts
+├── package-lock.json
+├── .gitignore                  
+├── eslint.config.mjs
+├── next-env.d.ts
+├── next.config.ts
+├── postcss.config.js
+├── postcss.config.mjs
+├── tailwind.config.ts
+├── tsconfig.json
