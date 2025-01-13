@@ -17,7 +17,6 @@ This is a personal portfolio built using **ReactJS**, **NextJS**, **TailwindCSS*
 
 
 ## File Structure
-## File Structure
 
 hello-nishant/
 ├── src/
