@@ -87,6 +87,6 @@ Contributions are welcome! If you have ideas to improve the dashboard or fix iss
 
 ---
 
-Thank you for exploring CoinCrush! We hope this dashboard helps you make informed cryptocurrency decisions.
+Thank you for exploring my portfolio! We hope this dashboard helps you make informed cryptocurrency decisions.
 
   
