@@ -15,12 +15,10 @@ This is a personal portfolio built using **ReactJS**, **NextJS**, **TailwindCSS*
 - **Backend**: Not applicable (static site)
 - **Version Control**: Git, GitHub
 
-Here's how you can format the file structure in Markdown for GitHub to ensure it looks neat when copied and pasted:
 
-```markdown
+## File Structure
 ## File Structure
 
-```
 hello-nishant/
 ├── src/
 │   ├── components/           # React components for UI
@@ -48,6 +46,3 @@ hello-nishant/
 ├── postcss.config.mjs
 ├── tailwind.config.ts
 ├── tsconfig.json
-```
-
-You can simply copy and paste the above into your `README.md` file on GitHub, and it will be displayed in a clean, organized manner with proper indentation.
