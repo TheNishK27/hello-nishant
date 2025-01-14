@@ -36,7 +36,7 @@ const Projects = () => {
   return (
     <div className="text-white bg-gradient-to-b from-black to-[#381a5f] py-18 mt-52" id="project">
       <h1 className="text-white text-5xl md:text-6xl text-center mx-auto font-semibold ">
-        Selected<span className="text-orange-400"> Projects</span>
+        Selected<span className="text-orange-400"><br className="hidden md:block"> Projects</span>
       </h1>
 
       <div className="px-6 md:px-0 md:max-w-[1000px] mx-auto mt-32 space-y-24">
