@@ -54,7 +54,7 @@ const Hero = () => {
         <Image
         src={profilepic}
         alt="profile picture"
-        className="h-auto w-auto mx-auto"
+        className="w-[550px] md:h-auto md:w-auto md:mx-auto"
         />
         </div>
     </div>
